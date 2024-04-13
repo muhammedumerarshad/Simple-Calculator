@@ -25,3 +25,4 @@ else
   {
     console.log('Your operation cannot be performed'); 
   }
+// {"NPM link": https://www.npmjs.com/package/u3rx-simple-calculator) 
